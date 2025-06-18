@@ -60,6 +60,7 @@ For generating the chunks run:
 ```bash
 python index_builder.py 
 ```
+Then:
 
 ```bash
 uvicorn rag_bot:app --reload
