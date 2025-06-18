@@ -1,4 +1,4 @@
-# 🧠 PDF Chatbot using FastAPI + Hugging Face + Sentence Transformers
+# 🧠 PDF Chatbot using FastAPI + OpenAI + Sentence Transformers
 
 This project is a **chatbot API** that answers questions based on the contents of a PDF file using a **Retrieval-Augmented Generation (RAG)** approach.
 
